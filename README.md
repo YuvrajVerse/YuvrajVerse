@@ -33,7 +33,5 @@ public class Developer
         "SQL Server"
     };
 
-    public int Experience = 1;
-
     public string Motto = "Build. Break. Learn. Repeat.";
 }
