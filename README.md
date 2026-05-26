@@ -1,22 +1,31 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Yuvraj
-
 <div align="center">
 
-### 💻 Future IT Engineer | Full Stack Learner | Problem Solver
+# Yuvraj 👨‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;C%23+%7C+.NET+Developer;SQL+Explorer;Always+Learning+New+Things+🚀" />
+### Full Stack Developer in Progress • React • .NET • SQL
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Learning+something+new+every+day;Turning+coffee+into+clean+code+☕;Future+Software+Engineer+🚀" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-```js
+```typescript
 const yuvraj = {
-    location: "India 🇮🇳",
-    learning: ["React", ".NET", "SQL", "Web API"],
-    goals: ["Become Full Stack Developer", "Build Cool Projects"],
-    hobbies: ["Coding", "Gaming", "Learning Tech"],
-    funFact: "Debugging feels like detective work 🕵️‍♂️"
+    role: "Aspiring Full Stack Developer",
+    currentFocus: [
+        "React.js",
+        ".NET Core",
+        "REST APIs",
+        "SQL Server"
+    ],
+    interests: [
+        "Web Development",
+        "UI/UX",
+        "Backend Systems",
+        "Problem Solving"
+    ],
+    mindset: "Code. Learn. Improve. Repeat."
 };
