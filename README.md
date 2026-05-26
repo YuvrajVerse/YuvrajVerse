@@ -1,10 +1,12 @@
 <div align="center">
 
-# Yuvraj 👨‍💻
+# Yuvraj Shinde 🚀
 
-### Full Stack Developer in Progress • React • .NET • SQL
+### .NET Developer • React Enthusiast • Building Modern Web Experiences
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Learning+something+new+every+day;Turning+coffee+into+clean+code+☕;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=.NET+Developer+with+1%2B+Years+Experience;React+%7C+Angular+%7C+SQL+Developer;Crafting+Clean+and+Scalable+Apps;Always+Learning+New+Tech+⚡" />
+
+<img src="https://komarev.com/ghpvc/?username=YuvrajVerse&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -12,20 +14,26 @@
 
 # 💫 About Me
 
-```typescript
-const yuvraj = {
-    role: "Aspiring Full Stack Developer",
-    currentFocus: [
-        "React.js",
+```csharp
+public class Developer
+{
+    public string Name = "Yuvraj Shinde";
+    public string Role = ".NET Developer";
+    
+    public string[] Skills =
+    {
+        "C#",
         ".NET Core",
-        "REST APIs",
+        "ASP.NET MVC",
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
         "SQL Server"
-    ],
-    interests: [
-        "Web Development",
-        "UI/UX",
-        "Backend Systems",
-        "Problem Solving"
-    ],
-    mindset: "Code. Learn. Improve. Repeat."
-};
+    };
+
+    public int Experience = 1;
+
+    public string Motto = "Build. Break. Learn. Repeat.";
+}
