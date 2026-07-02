@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ YUVRAJ SHINDE
+# YUVRAJ SHINDE
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+.NET+Developer;React+%7C+ASP.NET+Core+%7C+SharePoint;Building+Scalable+Enterprise+Apps;Always+Learning+Always+Building+🚀" />
 
