@@ -32,29 +32,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```csharp
-public class Yuvraj
-{
-    public string Role = "Full Stack .NET Developer";
-    public string Location = "Navi Mumbai, India";
-
-    public string[] Stack =
-    {
-        "C#", ".NET Core", "ASP.NET MVC",
-        "React", "TypeScript", "SharePoint (SPFx)",
-        "SQL Server"
-    };
-
-    public string CurrentFocus =
-        "Enterprise Workflow Systems & Modern Web Development";
-
-    public string Motto =
-        "Build. Learn. Improve. Repeat.";
-}
-```
-
 ---
 
 ## 📊 Analytics
